@@ -1,0 +1,4 @@
+#ifndef MANIPULATORS_H
+#define MANIPULATORS_H
+
+#endif // MANIPULATORS_H

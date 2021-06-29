@@ -9,4 +9,4 @@ find_package(BOOST REQUIRED)
 
 include_directories(${Boost_INCLUDE_DIRS})
 
-add_executable(BINS_Alg main.cpp converters.cpp algorithm.cpp converters.h algorithm.h)
+add_executable(BINS_Alg main.cpp converters.cpp algorithm.cpp converters.h algorithm.h manipulators.h)
